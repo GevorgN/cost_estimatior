@@ -201,6 +201,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Allow CSV and Excel files
+*.csv
+*.xlsx
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
